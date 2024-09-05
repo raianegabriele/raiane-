@@ -1,4 +1,4 @@
-.cabecalho{
+.cabecalho {
     background-color: blueviolet;
     color: aliceblue;
     display: flex;
@@ -6,9 +6,9 @@
 }
 
 .section1 {
-background-color: brown;
+    background-color: brown;
 }
 
-.section2{
-    
+.section2 {
+    background-color: blue;
 }
